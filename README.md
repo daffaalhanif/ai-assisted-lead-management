@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/cover.png" alt="AI-Assisted Lead Management: LLM-based deduplication and source extraction over messy CRM data" width="100%">
+</p>
+
+
 # AI-Assisted Mini Lead Management System
 
 A FastAPI service on top of a messy CRM export (2,049 leads). It exposes a standard lead store API and adds two AI capabilities: lead deduplication and source extraction from free-text notes.
